@@ -10,7 +10,3 @@ Ini adalah aplikasi perpustakaan app menggunakan database sqlite
 2. Hapus data buku
 3. Sorting buku (dipinjam , dikembalikan)
 
-## Source
-Abror Rahmad
-
-DeX PY
